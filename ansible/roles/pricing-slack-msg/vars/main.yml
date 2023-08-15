@@ -1,0 +1,4 @@
+---
+image: 'gitlab.office.myjet.tech:5000/production/pricing/pricing-slack-msg'
+
+registry_url: 'gitlab.office.myjet.tech:5000'

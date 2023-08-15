@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  pricing-slack-msg:
+    restart: always
+    build:
+      context: .
+      dockerfile: pricing-slack-msg.Dockerfile
+    image: gitlab.office.myjet.tech:5000/production/pricing/pricing-slack-msg:$IMAGE_TAG

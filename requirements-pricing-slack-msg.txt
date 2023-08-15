@@ -1,0 +1,7 @@
+slack_sdk
+tabulate
+sqlalchemy
+pandas
+gspread
+gsheets
+psycopg2
